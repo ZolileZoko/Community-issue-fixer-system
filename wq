@@ -1,0 +1,17 @@
+Initial commit with README
+
+# Conflicts:
+# initial commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto f10af03
+# Last command done (1 command done):
+#    pick dc36651 Initial commit with README
+# No commands remaining.
+# You are currently rebasing branch 'main' on 'f10af03'.
+#
+# Changes to be committed:
+#	modified:   README.md
+#
